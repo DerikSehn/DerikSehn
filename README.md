@@ -47,7 +47,7 @@
           </tr>
           <tr>
              <td>Currently Learning</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="15px"/> C Sharp</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="15px"/> Next.js</td>
           </tr>
         </table>
         </td>
