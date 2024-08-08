@@ -1,6 +1,6 @@
 <h1 align="center">Derik Sehn</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Derik+Sehn;A+passionate+developer+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Derik+Sehn;Feel+free+to+contact+me;Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
 <div>
    <h4>Living and learning every day</h4>
