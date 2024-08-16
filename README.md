@@ -4,7 +4,7 @@
 
 <div>
    <h4>Living and learning every day</h4>
-   <p>I am 21 years old and currently looking for new opportunities. I develop websites for clients, such as devsehn_saas, which is my template for generating landing pages and serves as a great portfolio while also providing a landing page solution for a real company, Cultura Verde.</p>
+   <p>I am 22 years old and currently looking for new opportunities. I develop websites for clients, such as devsehn_saas, which is my template for generating landing pages and serves as a great portfolio while also providing a landing page solution for a real company, Cultura Verde.</p>
    <p>I am a professional developer with experience in edutechs (IFSUL), fintechs (Quatro Informatica), and healthtechs (Unimed VC), with extensive experience in Next.js, Node.js, Prisma, PostgreSQL, and Oracle, Tailwind CSS, as well as various styling libraries I've worked with over time. I started programming at 18 at the Federal Institute and have been deepening my knowledge in Front-End development.</p>
    <p>My goals by the end of the year are to specialize in the latest trends in web development, including 3D models, scroll-triggered animations, and new concepts of clean design, along with more robust backends to deliver fast and secure software for businesses and clients.</p>
 </div>
