@@ -11,8 +11,8 @@
 
 <div align="center">
    <div style="display: flex; align-items: center;">
-      <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=DerikSehn&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Derik Sehn"/>  
-      <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerikSehn&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Derik Sehn" />
+      <img height="auto" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DerikSehn&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Derik Sehn"/>  
+      <img height="auto" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerikSehn&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Derik Sehn" />
    </div>
 </div>
 
